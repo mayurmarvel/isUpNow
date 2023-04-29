@@ -22,14 +22,13 @@ A Simple **SERVERLESS** Microservice that checks whether a a website is up or no
   | :------- | :------------------------- |
   | `string` | a valid Url                |
 
-  
-  
-**Example** : https://isUPNow.netlify.com/google.com
 
+**Example** : https://isUPNow.netlify.com/google.com
+  
 ### Example Response
 
 ```javascript
-{"url":"https://google.com","status":"up"}
+{"url":"https://google.com","status":"down"}
 ```
 
 
@@ -41,11 +40,9 @@ A Simple **SERVERLESS** Microservice that checks whether a a website is up or no
 ## Deployment
 You can deploy this Project on Netlify !
 
-To deploy this project run
+- fork this repo
+- Deploy it on netlify 
 
-```bash
-  npm run build
-```
 
 ⚠ Use root diretory as build directory
 

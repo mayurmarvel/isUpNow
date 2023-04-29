@@ -1,24 +1,9 @@
 {
-  "name": "temp1",
+  "name": "isupnow",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mayurmarvel/temp1.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mayurmarvel/temp1/issues"
-  },
-  "homepage": "https://github.com/mayurmarvel/temp1#readme",
-  "dependencies": {
-    "netlify-lambda": "^2.0.16",
-    "node-fetch": "^2.6.9"
   }
 }

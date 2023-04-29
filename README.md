@@ -23,15 +23,17 @@ A Simple **SERVERLESS** Microservice that checks whether a a website is up or no
   | `string` | a valid Url                |
 
   
+  
+**Example** : https://isUPNow.netlify.com/google.com
+
 ### Example Response
 
 ```javascript
-{"url":"https://google.com","status":"down"}
+{"url":"https://google.com","status":"up"}
 ```
 
 
 
-**Example** : https://isUPNow.netlify.com/google.com
 
 
 
